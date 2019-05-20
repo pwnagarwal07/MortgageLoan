@@ -1,0 +1,5 @@
+C:\Users\CGI\Desktop\WebApplication13\DAOLIbrary\bin\Debug\DAOLIbrary.dll
+C:\Users\CGI\Desktop\WebApplication13\DAOLIbrary\bin\Debug\DAOLIbrary.pdb
+C:\Users\CGI\Desktop\WebApplication13\DAOLIbrary\obj\Debug\DAOLIbrary.csprojResolveAssemblyReference.cache
+C:\Users\CGI\Desktop\WebApplication13\DAOLIbrary\obj\Debug\DAOLIbrary.dll
+C:\Users\CGI\Desktop\WebApplication13\DAOLIbrary\obj\Debug\DAOLIbrary.pdb
